@@ -1,4 +1,5 @@
 <?php
+echo "something";
 /**
  * A pseudo-CRON daemon for scheduling WordPress tasks
  *
